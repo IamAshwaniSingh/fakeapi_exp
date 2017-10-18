@@ -1,7 +1,7 @@
 {
   "accounts": [
-    { "id": 1, "name": "Post 1" },
-    { "id": 2, "name": "Post 2" },
-    { "id": 3, "name": "Post 3" }
+    { "id": 1, "name": "Account 1" },
+    { "id": 2, "name": "Account 2" },
+    { "id": 3, "name": "Account 3" }
   ]
 }
