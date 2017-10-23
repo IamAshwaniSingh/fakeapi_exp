@@ -8,5 +8,10 @@
     { "id": 1, "first_name": "pp", "last_name":"1", "name": "pp 1", "purchased_product_id": "122111", "start_date": "2017-05-12", "end_date": "2017-09-27" },
     { "id": 2, "first_name": "pp", "last_name":"1", "name": "pp 2", "purchased_product_id": "122112", "start_date": "2017-06-12", "end_date": "2017-10-27" },
     { "id": 3, "first_name": "pp", "last_name":"1", "name": "pp 3", "purchased_product_id": "122113", "start_date": "2017-07-12", "end_date": "2017-11-27" }
+  ],
+  "contacts": [
+    { "id": 1, "name": "Contact 1", "first_name": "Contact", "last_name":"1", "email": "contact1@example.com" },
+    { "id": 2, "name": "Contact 2", "first_name": "Contact", "last_name":"2", "email": "contact2@example.com" },
+    { "id": 3, "name": "Contact 3", "first_name": "Contact", "last_name":"3", "email": "contact3@example.com" }
   ]
 }
