@@ -1,8 +1,8 @@
 {
   "accounts": [
-    { "id": 1, "name": "Account 1", "first_name": "Account", "last_name":"1" },
-    { "id": 2, "name": "Account 2", "first_name": "Account", "last_name":"2" },
-    { "id": 3, "name": "Account 3", "first_name": "Account", "last_name":"3" }
+    { "id": 1, "name": "Account 1", "first_name": "Account", "last_name":"1", "city": "NY" },
+    { "id": 2, "name": "Account 2", "first_name": "Account", "last_name":"2", "city": "TN" },
+    { "id": 3, "name": "Account 3", "first_name": "Account", "last_name":"3", "city": "MO" }
   ],
   "pp": [
     { "id": 1, "first_name": "pp", "last_name":"1", "name": "pp 1", "purchased_product_id": "122111", "start_date": "2017-05-12", "end_date": "2017-09-27" },
